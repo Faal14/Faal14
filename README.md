@@ -9,7 +9,7 @@
 
 -  How to reach me **faaliqichsan144@gmail.com**
 
--  Fun fact **i like Art**
+-  Fun fact : **i like Art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
