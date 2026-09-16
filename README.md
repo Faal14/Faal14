@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Faal</h1>
 <h3 align="center">Just a boy who like Coding</h3>
 
-- 🔭 I’m currently studying on **UIN Salatiga**
+-  I’m currently studying on **UIN Salatiga**
 
-- 🌱 I’m currently learning **Frameworks, UI/UX, Cyber Security**
+-  I’m currently learning **Frameworks, UI/UX, Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Faal14?tab=projects](https://github.com/Faal14?tab=projects)
+-  All of my projects are available at [https://github.com/Faal14?tab=projects](https://github.com/Faal14?tab=projects)
 
-- 📫 How to reach me **faaliqichsan144@gmail.com**
+-  How to reach me **faaliqichsan144@gmail.com**
 
-- ⚡ Fun fact **i like Art**
+-  Fun fact **i like Art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
