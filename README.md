@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faal</h1>
 <h3 align="center">Just a boy who like Coding</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faal14" alt="faal14" /></a> </p>
-
 - 🔭 I’m currently studying on **UIN Salatiga**
 
 - 🌱 I’m currently learning **Frameworks, UI/UX, Cyber Security**
