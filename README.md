@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faal</h1>
+<h1 align="center">Hi, I'm Faal</h1>
 <h3 align="center">Just a boy who like Coding</h3>
 
 - 🔭 I’m currently studying on **UIN Salatiga**
